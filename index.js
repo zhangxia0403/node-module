@@ -1,2 +1,1 @@
-let a  = 'str';
-exports = a;
+console.log(22);

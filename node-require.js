@@ -102,4 +102,6 @@ function req(filename) {
 let d = req('./index');
 console.log('我是执行的结果',d);
 
+let dd = require('./index');
+console.log(dd);
 
